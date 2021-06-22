@@ -30,7 +30,7 @@ P ボタンを押して、/perform ウィンドウ設定ダイアログを表示
 
 ## アプリ起動時に、**Performモード**で起動するようにする
 
-**Start in Perform Mode** にチェックを入れ、TouchDesignerアプリ起動時に、Performモードで
+**Start in Perform Mode** にチェックを入れ、TouchDesignerアプリ起動時に、Performモードで実行されるようにする。
 ![Performモードで起動](https://user-images.githubusercontent.com/1692957/122906809-8333ed80-d38d-11eb-83a9-1950ae87c322.jpg)
 
 
