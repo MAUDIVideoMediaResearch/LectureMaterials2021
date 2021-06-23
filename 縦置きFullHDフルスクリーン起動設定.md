@@ -7,13 +7,13 @@
 
 ## フルスクリーン表示、タイトルバーを表示しないように設定する
 
-メニューバー > Dialogs > Window Placement ダイアログを表示
+##### メニューバー > Dialogs > Window Placement ダイアログを表示
 ![WindowPlacementダイアログを表示 1](https://user-images.githubusercontent.com/1692957/122867049-e872e900-d363-11eb-9a23-212f37cc8a57.jpg)
 
-Window Placement ダイアログ が表示される
+##### Window Placement ダイアログ が表示される
 ![WindowPlacementダイアログを表示 2](https://user-images.githubusercontent.com/1692957/122867345-4b648000-d364-11eb-9d58-51612eb4f99f.jpg)
 
-P ボタンを押して、/perform ウィンドウ設定ダイアログを表示
+##### P ボタンを押して、/perform ウィンドウ設定ダイアログを表示
 ![Pボタンを押してウィンドウ設定ダイアログを表示](https://user-images.githubusercontent.com/1692957/122878019-37277f80-d372-11eb-8b24-0f5c26c9d991.png)
 
 
